@@ -23,7 +23,7 @@ Note: This Code Based On Telethon So You need [Telethon String Session](https://
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables in config], ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/ITZ-ZAID/Telethon-Music/tree/railway&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH,BOT_USERNAME"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Badshah57/Telethon-Music/tree/railway&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH,BOT_USERNAME"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 ## Local Deployment Process
 ```sh
@@ -33,7 +33,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/ITZ-ZAID/Telethon-Music # clone the repo.
+git clone https://github.com/Badshah57/Telethon-Music # clone the repo.
 cd Telethon-Music
 pip3 install -U -r requirements.txt
 nano config.py #edit your vars separate by space
